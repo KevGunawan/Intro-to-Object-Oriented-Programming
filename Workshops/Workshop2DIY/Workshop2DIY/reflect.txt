@@ -1,0 +1,7 @@
+Kevin Gunawan 
+177378213 
+OOP224NFF
+
+Reflection:
+
+This week's DIY wasn't all too difficult. Alot of the implimentation of the function were done in part 1. Thus, I mainly had copied most of the logic from part 1 of the assignment over to the DIY and adpated it to read the file for two attributes rather than three attribute. The big takeaway I learned from this week was understanding dynamic memory allocation. I had done this in the past in C using malloc and sizeof and deallocating using the free function. This however, was my first time doing it in C++, the idea was more or less the same. It was also my first time deallocating memory of a data member inside a stuct. I quickly realized I had to run through a for loop to deallocate all the memory which had been pointing to the employee names in part 1 and the postal codes in part 2 before deallocating the pointer to the array of the struct itself. This was also the first time dealing with pass by reference versus pass by address. The syntax is much nicer in pass by reference as it allows us to access the member variables without having to dereference them in pass by address. 

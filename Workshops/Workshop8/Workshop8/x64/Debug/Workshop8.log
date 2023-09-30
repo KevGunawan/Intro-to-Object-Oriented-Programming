@@ -1,0 +1,5 @@
+﻿  Rectangle.cpp
+C:\Users\gunaw\Documents\oop244\Workshops\Workshop8\Workshop8\Rectangle.cpp(41,4): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  main.cpp
+  Generating Code...
+  Workshop8.vcxproj -> C:\Users\gunaw\Documents\oop244\Workshops\Workshop8\Workshop8\x64\Debug\Workshop8.exe
